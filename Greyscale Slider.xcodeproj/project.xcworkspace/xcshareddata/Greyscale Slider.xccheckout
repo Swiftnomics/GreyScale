@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8E47991-E931-4508-97BF-A2BF41E62F22</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Greyscale Slider</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B26242496AB7B4D3EB479B36F978490D84407D30</key>
+		<string>https://github.com/Swiftnomics/playgrounds.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Greyscale Slider/Greyscale Slider.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B26242496AB7B4D3EB479B36F978490D84407D30</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Swiftnomics/playgrounds.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B26242496AB7B4D3EB479B36F978490D84407D30</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B26242496AB7B4D3EB479B36F978490D84407D30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Thinkful_Swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
